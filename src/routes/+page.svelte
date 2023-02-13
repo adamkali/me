@@ -79,14 +79,14 @@
 				onSklMouseHover();
 			}}
 		>
-			<div class="pb-6 text-center text-3xl group-hover:text-indigo-400">What I Use</div>
+			<div class="pb-6 text-center text-2xl group-hover:text-indigo-400">What I Use</div>
 			<div class="grid grid-rows-6 gap-4">
 				<a href="http://www.rust-lang.org">
 					<div
-						class="grid grid-cols-3 rounded-xl text-lg transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-orange-400 hover:ease-in"
+						class="grid grid-cols-3 rounded-xl text-base transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-orange-400 hover:ease-in"
 					>
 						<div class="h-24"><DiRust /></div>
-						<div class="text-center align-middle text-3xl"><p>Rust</p></div>
+						<div class="text-center align-middle text-2xl"><p>Rust</p></div>
 						<div class="whitespace-pre-wrap">
 							<span class="flex-wrap">A Blazingly Fast Language for the Modern World</span>
 						</div>
@@ -94,46 +94,46 @@
 				</a>
 				<a href="https://dotnet.microsoft.com/en-us/">
 					<div
-						class="grid grid-cols-3 rounded-xl text-lg transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-indigo-400 hover:ease-in"
+						class="grid grid-cols-3 rounded-xl text-base transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-indigo-400 hover:ease-in"
 					>
 						<div class="h-24"><DiDotnet /></div>
-						<div class="text-center align-middle text-3xl"><p>.Net</p></div>
+						<div class="text-center align-middle text-2xl"><p>.Net</p></div>
 						<div class="whitespace-pre-wrap"><p>Make Applications that Scale</p></div>
 					</div>
 				</a>
 				<a href="https://reactjs.org/">
 					<div
-						class="grid grid-cols-3 rounded-xl text-lg transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-cyan-400 hover:ease-in"
+						class="grid grid-cols-3 rounded-xl text-base transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-cyan-400 hover:ease-in"
 					>
 						<div class="h-24"><DiReact /></div>
-						<div class="text-center align-middle text-3xl">React</div>
+						<div class="text-center align-middle text-2xl">React</div>
 						<div class="whitespace-pre-wrap"><p>The Intuitve Frontend Framework</p></div>
 					</div>
 				</a>
 				<a href="https://neovim.io/">
 					<div
-						class="grid grid-cols-3 rounded-xl text-lg transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-lime-400 hover:ease-in"
+						class="grid grid-cols-3 rounded-xl text-base transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-lime-400 hover:ease-in"
 					>
 						<div class="h-24"><DiVim /></div>
-						<div class="text-center align-middle text-3xl">Neovim</div>
+						<div class="text-center align-middle text-2xl">Neovim</div>
 						<div class="whitespace-pre-wrap"><p>The Endgame Text Editor</p></div>
 					</div>
 				</a>
 				<a href="https://www.python.org/">
 					<div
-						class="grid grid-cols-3 rounded-xl text-lg transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-yellow-400 hover:ease-in"
+						class="grid grid-cols-3 rounded-xl text-base transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-yellow-400 hover:ease-in"
 					>
 						<div class="h-24"><DiPython /></div>
-						<div class="text-center align-middle text-3xl">Python</div>
+						<div class="text-center align-middle text-2xl">Python</div>
 						<div class="whitespace-pre-wrap"><p>My Go To Scripting Language</p></div>
 					</div>
 				</a>
 				<a href="https://go.dev/">
 					<div
-						class="grid grid-cols-3 rounded-xl text-lg transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-sky-400 hover:ease-in"
+						class="grid grid-cols-3 rounded-xl text-base transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-sky-400 hover:ease-in"
 					>
 						<div class="h-24"><DiGo /></div>
-						<div class="text-center align-middle text-3xl">Golang</div>
+						<div class="text-center align-middle text-2xl">Golang</div>
 						<div class="whitespace-pre-wrap"><p>The Natural Concurrent Language</p></div>
 					</div>
 				</a>
@@ -148,7 +148,7 @@
 				onExpMouseHover();
 			}}
 		>
-			<div class="pb-6 text-center text-3xl group-hover:text-indigo-400">What I am Doing</div>
+			<div class="pb-6 text-center text-2xl group-hover:text-indigo-400">What I am Doing</div>
 			<div class="decoration-none grid grid-rows-3 text-ellipsis text-lg">
 				<a href="https://v5.efilemadeeasy.com">
 					<div
@@ -189,7 +189,7 @@
 			</div>
 		</div>
 		<div class="me-section group">
-			<div class="pb-6 text-center text-3xl group-hover:text-indigo-400">Check Out What I Love</div>
+			<div class="pb-6 text-center text-2xl group-hover:text-indigo-400">Check Out What I Love</div>
 			<div class="flex flex-col">
 				<a
 					class="rounded-xl p-4 transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-blue-900 hover:ease-in"
@@ -204,7 +204,6 @@
 					<img
 						src="https://secure.gravatar.com/avatar/e0ee421cf83fc2240825cda2b5139f64.jpg?s=120&r=g&d=404"
 					/>
-					<div class="justify-center align-middle text-5xl">Photoprism</div>
 				</a>
 				<a
 					class="rounded-xl p-4 transition-all duration-300 ease-out hover:bg-gray-300/30 hover:text-blue-900 hover:ease-in"
