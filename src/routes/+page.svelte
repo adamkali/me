@@ -30,7 +30,7 @@
 	};
 </script>
 
-<div
+<main
 	class="flex h-screen w-screen flex-col justify-start bg-gradient-to-tr from-gray-900 to-zinc-600 px-96 text-2xl text-slate-400"
 >
 	<div class="flex flex-col justify-center pt-2 pb-16 text-justify align-middle">
@@ -231,4 +231,4 @@
 			</div>
 		</div>
 	</div>
-</div>
+</main>
