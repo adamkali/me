@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.me-section {
+		@apply w-1/3 transform-gpu rounded-xl bg-blue-900/20 p-4 px-4 shadow-2xl shadow-gray-200 backdrop-blur-xl transition duration-300 ease-out hover:z-20 hover:-translate-y-32  hover:scale-125 hover:ease-in;
+	}
+}
